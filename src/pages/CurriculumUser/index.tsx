@@ -14,7 +14,7 @@ import {
   SoftSkills,
 } from "./styles";
 
-import Perfil from "../../assets/perfil.jpeg";
+import Perfil from "../../assets/perfil.jpg";
 import Title from "../../components/Title/index";
 import EducationCard from "../../components/EducationCard/index"; 
 import ExperienceCard from "../../components/ExperienceCard/index";
